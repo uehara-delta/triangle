@@ -18,10 +18,11 @@ $ ruby triangle.rb 1, 1, 1
 
 $ ruby triangle.rb 1, 2, 3
 三角形じゃないです＞＜
+```
 
 ## テストの実行方法
 
-````
+```
 bundle install
 bundle exec rspec
-````
+```
